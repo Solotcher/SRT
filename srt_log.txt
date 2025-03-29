@@ -1,0 +1,5 @@
+=== SRT 실행 로그 - 2025-03-29 14:37:41.89 === 
+현재 디렉토리: C:\Users\User\Documents\study\J\SRT\ 
+JAR 경로: C:\Users\User\Documents\study\J\SRT\app\build\libs\srt-with-dependencies.jar 
+JavaFX 모듈 경로: C:\Users\User\.gradle\caches\modules-2\files-2.1\org.openjfx 
+JavaFX 모듈이 필요한 프로그램입니다. run_javafx_custom.bat을 실행합니다... 

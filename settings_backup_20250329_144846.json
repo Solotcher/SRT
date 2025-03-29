@@ -1,0 +1,16 @@
+{
+  "maxThreads" : 8,
+  "speedLimit" : 0,
+  "autoRecord" : false,
+  "cachePath" : "cache",
+  "webServerEnabled" : true,
+  "webServerPort" : 8080,
+  "recorderProgram" : "streamlink",
+  "naverId" : "",
+  "naverPw" : "",
+  "nidSes" : "",
+  "nidAut" : ""
+  "allowAdd" : true,
+  "allowEdit" : true,
+  "allowDelete" : true
+}

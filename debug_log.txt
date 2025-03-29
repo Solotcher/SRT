@@ -1,0 +1,7 @@
+===== 디버깅 로그 시작 ===== 
+현재 작업 디렉토리: C:\Users\User\Documents\study\J\SRT 
+Java 실행 파일: C:\Program Files\Microsoft\jdk-21.0.6.7-hotspot\bin\java.exe 
+JavaFX SDK 경로 확인됨: C:\Program Files\Microsoft\javafx-sdk-23.0.2\lib 
+JAR 파일 경로: app\build\libs\srt-with-dependencies.jar 
+전체 JAR 경로: C:\Users\User\Documents\study\J\SRT\app\build\libs\srt-with-dependencies.jar 
+JAR 파일 확인됨 

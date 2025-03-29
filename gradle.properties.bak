@@ -1,0 +1,2 @@
+org.gradle.jvmargs=-Dfile.encoding=UTF-8 -Duser.language=ko -Duser.country=KR 
+systemProp.file.encoding=UTF-8 

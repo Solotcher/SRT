@@ -1,0 +1,2 @@
+cd C:\Users\User\Documents\study\J\SRT 
+"C:\Program Files\Microsoft\jdk-21.0.6.7-hotspot\bin\java.exe" -Dfile.encoding=MS949 -Dsun.stdout.encoding=MS949 -Dsun.stderr.encoding=MS949 -Djavafx.encoding=UTF-8 -Duser.language=ko -Duser.country=KR -Xmx512m --module-path "C:\Program Files\Microsoft\javafx-sdk-23.0.2\lib" --add-modules=javafx.controls,javafx.fxml,javafx.web,javafx.swing,javafx.media,javafx.graphics -jar "C:\Users\User\Documents\study\J\SRT\app\build\libs\srt-with-dependencies.jar" 

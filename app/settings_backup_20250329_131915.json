@@ -1,0 +1,19 @@
+{
+  "maxThreads" : 4,
+  "speedLimit" : 0,
+  "autoRecord" : false,
+  "cachePath" : "cache",
+  "webServerEnabled" : true,
+  "webServerPort" : 8080,
+  "recorderProgram" : "streamlink",
+  "naverId" : "",
+  "naverPw" : "",
+  "nidSes" : "AAABtnG9Wtmc4NVtewce3adgE5zmP7QSl9gMVom1my2XlqlqV6N/IlZcz1rZLGakZ9OPLpiKhjyUnnPJ7K7+9HX0Ggl35H1kpiZXPvQFKxSd3VxGDdSNVdfIq7/acvrYxMXbTI/AimO4mJTd7J7OYNdSyZKAW0ElyNdFln4mqz3U5RUAUaC0PmaUG2+Q/gio6ZrDtgWP/d0kAb3zvws3Z11StE0dWev2o5262LjFoOfCqL0LFjm9dDSrdg0oxM7XEXDZ36fgBpwZuGEzcOCpTappMH9sFSM9PDNnZ4nwslulLKFxeUGXBaHb712J7Y071u/jdLWsyl8zWr52b3xDf8VU84grt0ZlUCK1cb1rPUqOxIEQ6MlMDKL+kWx3UoY4rgsURAwvJTUJj6ZYm7JNL5YMMgaoPpsBWd6YDsW8PiBJX6XUIHS2hsjbvA7HG2yEiXeGAJs//J0n/x31iEqGIYjcH2RKb9l5/YijrfBLsYd50KyKGDwxQiJkuQJZiBqFzQSxEVFeQY9GDCQDwsnyoPmrHRXrDlDrG4JodzPgPxqduNJtEOeY0+f0slE434DVWUBXTxhsZcqU93X0qPm2jGivzmY=",
+  "nidAut" : "ReCCXDyz5WtsMaq9B2e9FYorTaNZV72vP5EqlAHPrGHSJuhzip4KGolka8loq0YO",
+  "streamers" : [ {
+    "outputPath" : "cache",
+    "name" : "유안이",
+    "url" : "https://chzzk.naver.com/live/56e51511c247955e297b619ec877be46",
+    "quality" : "best"
+  } ]
+}
